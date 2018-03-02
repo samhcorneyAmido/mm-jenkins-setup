@@ -1,0 +1,1 @@
+# Media Manager Jenkins setup
